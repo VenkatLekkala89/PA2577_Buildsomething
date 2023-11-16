@@ -1,0 +1,5 @@
+Flask
+requests
+marshmallow
+Flask-SQLAlchemy
+psycopg2
